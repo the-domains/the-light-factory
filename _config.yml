@@ -1,0 +1,28 @@
+name: The Light Factory
+favicon: null
+layout_spectrum: 0.14949415740557015
+typography_spectrum: 0.7812274263706058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#493f33'
+    - '#9cc7e8'
+    - '#6e645b'
+    - '#c5af79'
+  brandStrength: 0.26528537832200527
+  lightness: 0.5705072297714651
+  saturation: 0.7401700431946665
+  rhythmicContrast: 0.06767741497606039
+purpose: []
