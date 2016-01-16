@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[The Light Factory]]></title>
         <description><![CDATA[The Light Factory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-light-factory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 18:18:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 18:43:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-light-factory/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined23444224-206f-4a37-b580-b1737a874b14/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74921593-0d0c-44e5-bbbc-0b4f3098f3b5.tif">]]></description>
+            <link>https://thegrid.ai/the-light-factory/23444224-206f-4a37-b580-b1737a874b14/index.html</link>
             <guid isPermaLink="false">23444224-206f-4a37-b580-b1737a874b14</guid>
-            <pubDate>Sat, 16 Jan 2016 18:03:28 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 18:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
